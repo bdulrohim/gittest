@@ -9,4 +9,5 @@
 
 
  echo 'alhamdulillah rejeki dapet makanan';
+ echo 'tambah lagi neh';
 ?>
