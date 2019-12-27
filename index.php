@@ -5,4 +5,8 @@
  echo 'tiga';
  echo 'empat';
  echo 'lima';
+
+
+
+ echo 'alhamdulillah rejeki dapet makanan';
 ?>
