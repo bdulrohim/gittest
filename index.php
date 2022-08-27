@@ -6,6 +6,7 @@
  echo 'empat';
  echo 'lima';
  echo 'baru';
+ echo 'dari gith';
 
 
  echo 'alhamdulillah rejeki dapet makanan';
