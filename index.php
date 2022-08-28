@@ -6,7 +6,7 @@
  echo 'empat';
  echo 'lima';
  echo 'baru';
- echo 'dari gitz';
+ echo 'dari gitzz';
 
 
 
