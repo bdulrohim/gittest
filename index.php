@@ -5,8 +5,8 @@
  echo 'tiga';
  echo 'empat';
  echo 'lima';
- echo 'baruz';
- echo 'dari gitz';
+ echo 'baru';
+ echo 'dari gitzz';
 
 
 
